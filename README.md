@@ -34,3 +34,5 @@ Hello! I'm Shan, a passionate and aspiring professional in the realm of Cloud Co
 ---
 
 This is a special repository because its `README.md` appears on my GitHub profile. Feel free to connect with me to discuss technology, collaboration opportunities, or just to say hi!
+
+[RedHat](redhat.jpg)
