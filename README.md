@@ -15,6 +15,7 @@ Hello! I'm Shan, a passionate and aspiring professional in the realm of Cloud Co
 - **Cloud Computing:** Deeply fascinated by the architecture, implementation, and management of cloud infrastructures.
 - **Automation:** Passionate about automating cloud, systems, and networking tasks to enhance efficiency and reliability.
 - **Learning:** Currently expanding my knowledge in:
+  - **Networking:** Cisco
   - **Programming Languages:** Python
   - **Cloud Platforms:** GCP, AWS, Azure
   - **Infrastructure as Code:** Terraform
