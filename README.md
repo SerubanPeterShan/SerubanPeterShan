@@ -6,8 +6,8 @@ Hello! I'm Shan, a passionate and aspiring professional in the realm of Cloud Co
 
 - **Name:** Shan Peter Seruban
 - **Location:** Canada
-- **University:** Curtin University Australia (Studied at SLIIT Branch, Sri Lanka)
-- **Degree:** Computer Network and Systems Engineering
+- **University:** Loylist College Toronto Campus
+- **Degree:** Postgradute Degree and Cloud Computing
 - **Certifications:** RHCSA (2019-2022)
 
 ## 💡 Interests
