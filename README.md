@@ -6,7 +6,7 @@ Hello! I'm Shan, a passionate and aspiring professional in the realm of Cloud Co
 
 - **Name:** Shan Peter Seruban
 - **Location:** Canada
-- **University:** Loylist College Toronto Campus
+- **University:** Loyalist College Toronto Campus
 - **Degree:** Postgradute Degree and Cloud Computing
 - **Certifications:** RHCSA (2019-2022)
 
