@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @PSerubanPeterShan
-- 👀 I’m interested in Cloud Computing Infrastructure Architecture, Implentation of Systems and Networking and Cloud/Systems/Networking Automation  
-- 🌱 I’m currently learning Python, GCP, AWS, Azure , Terraform, CloudBuild, GitHub Actions, Docker,kubernetes
-- 🧑‍🎓 I'm Currently a graduate university student in Computer Network and Systems Enginneringin from CURTIN University Australia(Studied in SLIIT BRANCH Sri lanka)
-- 🌳 I have completed RHCSA (2019 -2022)
-- 📫 How to reach me https://www.linkedin.com/in/shan-sp/
-- 📫 or mail serubansp@gmail.com
+# Welcome to My GitHub Profile! 👋
 
-<!---
-SerubanPeterShan/SerubanPeterShan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Shan, a passionate and aspiring professional in the realm of Cloud Computing Infrastructure Architecture, System Implementation, Networking, and Automation. I'm currently navigating the exciting world of technology as a graduate student and continuously expanding my expertise in various cutting-edge technologies.
+
+## 🌟 About Me
+
+- **Name:** Shan Peter Seruban
+- **Location:** Canada
+- **University:** Curtin University Australia (Studied at SLIIT Branch, Sri Lanka)
+- **Degree:** Computer Network and Systems Engineering
+- **Certifications:** RHCSA (2019-2022)
+
+## 💡 Interests
+
+- **Cloud Computing:** Deeply fascinated by the architecture, implementation, and management of cloud infrastructures.
+- **Automation:** Passionate about automating cloud, systems, and networking tasks to enhance efficiency and reliability.
+- **Learning:** Currently expanding my knowledge in:
+  - **Programming Languages:** Python
+  - **Cloud Platforms:** GCP, AWS, Azure
+  - **Infrastructure as Code:** Terraform
+  - **CI/CD Tools:** CloudBuild, GitHub Actions
+  - **Containerization & Orchestration:** Docker, Kubernetes
+
+## 📚 Education
+
+- **Graduate University Student:** Computer Network and Systems Engineering, Curtin University Australia (Studied in SLIIT Branch, Sri Lanka)
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Shan SP](https://www.linkedin.com/in/shan-sp/)
+- **Email:** serubansp@gmail.com
+
+---
+
+This is a special repository because its `README.md` appears on my GitHub profile. Feel free to connect with me to discuss technology, collaboration opportunities, or just to say hi!
