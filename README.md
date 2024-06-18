@@ -1,16 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m @PSerubanPeterShan
+- 👀 I’m interested in Cloud Computing Infrastructure Architecture, Implentation of Systems and Networking and Cloud/Systems/Networking Automation  
+- 🌱 I’m currently learning Python, GCP, AWS, Azure , Terraform, CloudBuild, GitHub Actions, Docker,kubernetes
+- 🧑‍🎓 I'm Currently a graduate university student in Computer Network and Systems Enginneringin from CURTIN University Australia(Studied in SLIIT BRANCH Sri lanka)
+- 🌳 I have completed RHCSA (2019 -2022)
+- 📫 How to reach me https://www.linkedin.com/in/shan-sp/
+- 📫 or mail serubansp@gmail.com
 
-<!--
-**SerubanPeterShan/SerubanPeterShan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+SerubanPeterShan/SerubanPeterShan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
