@@ -22,25 +22,27 @@ Hello! I'm Shan, a passionate and aspiring professional in the realm of Cloud Co
   - **CI/CD Tools:** CloudBuild, GitHub Actions
   - **Containerization & Orchestration:** Docker, Kubernetes
 
-## :hammer_and_wrench: Languges And Tools
-### Languages
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
-</div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SerubanPeterShan&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 ## 📚 Education
 
 - **Graduate University Student:** Computer Network and Systems Engineering, Curtin University Australia (Studied in SLIIT Branch, Sri Lanka)
 
 ## 📫 How to Reach Me
-<div id="badges">
-  <a href="https://www.linkedin.com/in/shan-sp/">
+
+
+- **LinkedIn:** [Shan SP](https://www.linkedin.com/in/shan-sp/) &nbsp;
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/shan-sp/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    </a>&nbsp;
 
 </div>
 
-- **LinkedIn:** [Shan SP](https://www.linkedin.com/in/shan-sp/)
 - **Email:** serubansp@gmail.com
 
 ---
